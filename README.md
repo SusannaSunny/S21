@@ -1,5 +1,13 @@
 # NeuroStartUp
 
+'''css
+.selector {
+  font-family: "Awesome", Arial, sans-serif;
+  color: red;
+}
+'''
+
+
 ![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
 
 *NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием 
@@ -10,7 +18,6 @@
 * Высокая скорость поиска
 * Низкая цена
 
-'''css
 Мы на столько крутые, что уже успели поработать со следующими команиями:
 
 ООО «Рога и копыта»
